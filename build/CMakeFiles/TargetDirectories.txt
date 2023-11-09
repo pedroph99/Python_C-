@@ -1,0 +1,3 @@
+/home/pedro/Área de Trabalho/C pro/OpticalNetworkSimulator (2)/OpticalNetworkSimulator/python_tests/build/CMakeFiles/ProjetoBase.dir
+/home/pedro/Área de Trabalho/C pro/OpticalNetworkSimulator (2)/OpticalNetworkSimulator/python_tests/build/CMakeFiles/edit_cache.dir
+/home/pedro/Área de Trabalho/C pro/OpticalNetworkSimulator (2)/OpticalNetworkSimulator/python_tests/build/CMakeFiles/rebuild_cache.dir
